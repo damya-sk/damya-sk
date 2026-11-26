@@ -26,11 +26,5 @@ Software Engineering master's student with a passion for AI, Machine Learning, a
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=damya-sk&bg_color=00000000&color=1f9c8f&line=1f9c8f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/damya-sk">damya-sk</a></i></p>
